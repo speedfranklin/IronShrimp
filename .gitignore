@@ -1,0 +1,99 @@
+# Folders
+bin
+obj
+Debug
+Release
+Debug10
+Release10
+Debug14
+Release14
+Debug14x64
+Release14x64
+Data
+*.user
+.vs
+
+# Log Output folder
+cpp/Publish/Create_API_Log_Output
+
+# Object files
+cpp/AdvionCMS/Debug/*.d
+cpp/AdvionCMS/Debug/*.o
+cpp/AdvionCMS/Release/*.d
+cpp/AdvionCMS/Release/*.o
+cpp/AdvionCMS_JNI/Debug/*.d
+cpp/AdvionCMS_JNI/Debug/*.o
+cpp/AdvionCMS_JNI/Release/*.d
+cpp/AdvionCMS_JNI/Release/*.o
+cpp/AdvionCommon/Debug/*.d
+cpp/AdvionCommon/Debug/*.o
+cpp/AdvionCommon/Release/*.d
+cpp/AdvionCommon/Release/*.o
+cpp/AdvionData/Debug/*.d
+cpp/AdvionData/Debug/*.o
+cpp/AdvionData/Release/*.d
+cpp/AdvionData/Release/*.o
+cpp/AdvionData_JNI/Debug/*.d
+cpp/AdvionData_JNI/Debug/*.o
+cpp/AdvionData_JNI/Release/*.d
+cpp/AdvionData_JNI/Release/*.o
+cpp/AdvionObjects/Debug/*.d
+cpp/AdvionObjects/Debug/*.o
+cpp/AdvionObjects/Release/*.d
+cpp/AdvionObjects/Release/*.o
+cpp/AdvionSolution/TestData/
+cpp/CMSCmd/Debug/*.d
+cpp/CMSCmd/Debug/*.o
+cpp/CMSCmd/Release/*.d
+cpp/CMSCmd/Release/*.o
+cpp/IcpmsInterface/Debug/*.d
+cpp/IcpmsInterface/Debug/*.o
+cpp/IcpmsInterface/Release/*.d
+cpp/IcpmsInterface/Release/*.o
+cpp/LicenseGenerator/Debug/*.d
+cpp/LicenseGenerator/Debug/*.o
+cpp/LicenseGenerator/Debug/AES/*.d
+cpp/LicenseGenerator/Debug/AES/*.o
+cpp/LicenseGenerator/Release/*.d
+cpp/LicenseGenerator/Release/*.o
+cpp/LicenseGenerator/Release/AES/*.d
+cpp/LicenseGenerator/Release/AES/*.o
+cpp/LicenseUtility/Debug/*.d
+cpp/LicenseUtility/Debug/*.o
+cpp/LicenseUtility/Release/*.d
+cpp/LicenseUtility/Release/*.o
+cpp/MMSInterface/Debug/*.d
+cpp/MMSInterface/Debug/*.o
+cpp/MMSInterface/Release/*.d
+cpp/MMSInterface/Release/*.o
+cpp/TestAPI/Debug/*.d
+cpp/TestAPI/Debug/*.o
+cpp/TestAPI/Release/*.d
+cpp/TestAPI/Release/*.o
+cpp/TestAPI/TestData/Test*Results
+cpp/TestAPI_NET/TestData/Test*Results
+cpp/TestAPI_VB/TestData/Test*Results
+
+# Metadata
+java/.metadata
+.metadata
+
+# Database Files
+*.db
+*.opendb
+
+# Help & Manual Generated Files
+__history
+~tmpchm/*
+
+# Installer builds
+*.771
+
+# Generated Documentation Files
+Doc/html/*
+Doc/html.java/*
+Doc/html.LC/*
+Doc/html.NET/*
+
+# Git files
+*.orig

@@ -10,6 +10,7 @@ Release14
 Debug14x64
 Release14x64
 Data
+packages
 *.user
 .vs
 

@@ -114,7 +114,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseWriter.cs" />
-    <Compile Include="Datx.cs" />
+    <Compile Include="DBObjects\Datx.cs" />
+    <Compile Include="DetectionAlgorithm.cs" />
+    <Compile Include="DeterministicDetection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
